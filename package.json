@@ -1,0 +1,15 @@
+{
+  "name": "playing_with_bitcore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abx",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore-explorers": "^1.0.1",
+    "bitcore-lib": "^0.15.0"
+  }
+}
